@@ -63,9 +63,9 @@ const Navbar = class extends React.Component {
               <a target="_self" className="navbar-item" to="/">
                 Home2
               </a>
-              <Link target="_self" className="navbar-item" to="/new-zealand-wine-regions">
+              <a target="_self" className="navbar-item" onClick={() => navigate("/new-zealand-wine-regions")}>
                 NZ Wine Regions
-              </Link>
+              </a>
               <Link target="_self" className="navbar-item" to="/">
                 Wine Map
               </Link>
