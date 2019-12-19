@@ -41,9 +41,9 @@ const Navbar = class extends React.Component {
       >
         <div className="container">
           <div className="navbar-brand">
-            <a href="/" className="navbar-item" title="Logo">
+            <Link target="_self" to="/" className="navbar-item" title="Logo">
               <img src={logo} alt="NZ Cellar Door" />
-            </a>
+            </Link>
             {/* Hamburger menu */}
             <div
               className={`navbar-burger burger ${this.state.navBarActiveClass}`}
@@ -60,29 +60,30 @@ const Navbar = class extends React.Component {
             className={`navbar-menu ${this.state.navBarActiveClass}`}
           >
             <div className="navbar-start has-text-centered">
-              <a href="/" className="navbar-item">
+              <Link target="_self" className="navbar-item" to="/">
                 Home
-              </a>
-              <a className="navbar-item" href="/new-zealand-wine-regions">
+              </Link>
+              <Link target="_self" className="navbar-item" to="/new-zealand-wine-regions">
                 NZ Wine Regions
-              </a>
-              <a className="navbar-item" href="/">
+              </Link>
+              <Link target="_self" className="navbar-item" to="/">
                 Wine Map
-              </a>
-              <a className="navbar-item" href="/blog">
+              </Link>
+              <Link className="navbar-item" to="/blog">
                 Blog
-              </a>
+              </Link>
+
             </div>
             <div className="navbar-end has-text-centered">
-              <a className="navbar-item" href="/pricing">
+              <Link target="_self" className="navbar-item" to="/pricing">
                 List with us
-              </a>
-              <a className="navbar-item" href="/session/register">
+              </Link>
+              <Link target="_self" className="navbar-item" to="/session/register">
                 Sign up
-              </a>
-              <a className="navbar-item" href="/session/login">
+              </Link>
+              <Link target="_self" className="navbar-item" to="/session/login">
                 Sign in
-              </a>
+              </Link>
             </div>
           </div>
         </div>
