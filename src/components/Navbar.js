@@ -41,9 +41,9 @@ const Navbar = class extends React.Component {
       >
         <div className="container">
           <div className="navbar-brand">
-            <Link to="/" className="navbar-item" title="Logo">
+            <a href="/" className="navbar-item" title="Logo">
               <img src={logo} alt="NZ Cellar Door" />
-            </Link>
+            </a>
             {/* Hamburger menu */}
             <div
               className={`navbar-burger burger ${this.state.navBarActiveClass}`}
@@ -60,32 +60,29 @@ const Navbar = class extends React.Component {
             className={`navbar-menu ${this.state.navBarActiveClass}`}
           >
             <div className="navbar-start has-text-centered">
-              <Link className="navbar-item" to="/">
+              <a href="/" className="navbar-item">
                 Home
-              </Link>
-              <Link className="navbar-item" to="/new-zealand-wine-regions">
+              </a>
+              <a className="navbar-item" href="/new-zealand-wine-regions">
                 NZ Wine Regions
-              </Link>
-              <Link className="navbar-item" to="/">
+              </a>
+              <a className="navbar-item" href="/">
                 Wine Map
-              </Link>
-              <Link className="navbar-item" to="/blog">
+              </a>
+              <a className="navbar-item" href="/blog">
                 Blog
-              </Link>
-              <Link className="navbar-item" to="/contact/examples">
-                Form Examples
-              </Link>
+              </a>
             </div>
             <div className="navbar-end has-text-centered">
-              <Link className="navbar-item" to="/pricing">
+              <a className="navbar-item" href="/pricing">
                 List with us
-              </Link>
-              <Link className="navbar-item" to="/session/register">
+              </a>
+              <a className="navbar-item" href="/session/register">
                 Sign up
-              </Link>
-              <Link className="navbar-item" to="/session/login">
+              </a>
+              <a className="navbar-item" href="/session/login">
                 Sign in
-              </Link>
+              </a>
             </div>
           </div>
         </div>

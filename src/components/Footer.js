@@ -14,19 +14,19 @@ const Footer = class extends React.Component {
 		<div className="container footer">
 
 				<div className="navbar-brand">
-					<Link to="/" className="navbar-item" title="Logo">
+					<a href="/" className="navbar-item" title="Logo">
 						<img src={logo} alt="NZ Cellar Door" />
-					</Link>
+					</a>
 
-			<Link className="footer-item" to="/">
+			<a className="footer-item" href="/">
 				Home
-			</Link>
-			<Link className="footer-item" to="/contact">
+			</a>
+			<a className="footer-item" href="/contact">
 				Contact Us
-			</Link>
-			<Link className="footer-item" to="/terms">
+			</a>
+			<a className="footer-item" href="/terms">
 				Terms &amp; Conditions
-			</Link>
+			</a>
 			</div>
 
 
