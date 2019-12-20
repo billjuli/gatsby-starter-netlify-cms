@@ -18,15 +18,27 @@ const Footer = class extends React.Component {
 						<img src={logo} alt="NZ Cellar Door" />
 					</Link>
 
-			<Link target="_self" className="footer-item" to="/">
+			<a className="footer-item" 
+							onClick={e => {
+									e.preventDefault()
+									window.location.href = "/";
+							}}>
 				Home
-			</Link>
-			<Link target="_self" className="footer-item" to="/contact">
-				Contact Us
-			</Link>
-			<Link target="_self" className="footer-item" to="/terms">
+			</a>
+			<a className="footer-item" 
+							onClick={e => {
+									e.preventDefault()
+									window.location.href = "/contact";
+							}}>
+			Contact Us
+			</a>
+			<a className="footer-item" 
+							onClick={e => {
+									e.preventDefault()
+									window.location.href = "/terms";
+							}}>
 				Terms &amp; Conditions
-			</Link>
+			</a>			
 			</div>
 
 

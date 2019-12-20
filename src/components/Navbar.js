@@ -41,9 +41,13 @@ const Navbar = class extends React.Component {
       >
         <div className="container">
           <div className="navbar-brand">
-            <Link target="_self" to="/" className="navbar-item" title="Logo">
+            <a className="navbar-item" 
+                      onClick={e => {
+                          e.preventDefault()
+                          window.location.href = "/";
+                      }}>
               <img src={logo} alt="NZ Cellar Door" />
-            </Link>
+            </a>
             {/* Hamburger menu */}
             <div
               className={`navbar-burger burger ${this.state.navBarActiveClass}`}
@@ -60,34 +64,53 @@ const Navbar = class extends React.Component {
             className={`navbar-menu ${this.state.navBarActiveClass}`}
           >
             <div className="navbar-start has-text-centered">
-              <a target="_self" className="navbar-item" to="/">
-                Home2
+            <a className="navbar-item" 
+                      onClick={e => {
+                          e.preventDefault()
+                          window.location.href = "/";
+                      }}>
+                Home
               </a>
               <a className="navbar-item" 
                       onClick={e => {
                           e.preventDefault()
                           window.location.href = "/new-zealand-wine-regions";
                       }}>
-                NZ Wine Regions4
+                NZ Wine Regions
               </a>
-              <Link target="_self" className="navbar-item" to="/">
+              <a className="navbar-item" 
+                      onClick={e => {
+                          e.preventDefault()
+                          window.location.href = "/";
+                      }}>
                 Wine Map
-              </Link>
+              </a>
               <Link className="navbar-item" to="/blog">
                 Blog
               </Link>
 
             </div>
             <div className="navbar-end has-text-centered">
-              <Link target="_self" className="navbar-item" to="/pricing">
+            <a className="navbar-item" 
+                      onClick={e => {
+                          e.preventDefault()
+                          window.location.href = "/pricing";
+                      }}>
                 List with us
-              </Link>
-              <Link target="_self" className="navbar-item" to="/session/register">
-                Sign up
-              </Link>
-              <Link target="_self" className="navbar-item" to="/session/login">
+              </a>
+              <a className="navbar-item" 
+                      onClick={e => {
+                          e.preventDefault()
+                          window.location.href = "/session/register";
+                      }}>              
+              </a>
+              <a className="navbar-item" 
+                      onClick={e => {
+                          e.preventDefault()
+                          window.location.href = "/session/login";
+                      }}>                
                 Sign in
-              </Link>
+              </a>
             </div>
           </div>
         </div>
