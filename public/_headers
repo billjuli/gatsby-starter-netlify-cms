@@ -5,11 +5,11 @@
   X-XSS-Protection: 1; mode=block
   X-Content-Type-Options: nosniff
   Referrer-Policy: same-origin
-/styles.80c52f4982965483b78e.css
+/styles.dbcfa409b31895d1b246.css
   Cache-Control: public, max-age=31536000, immutable
 /styles-ae186a05e6d35a25a9a6.js
   Cache-Control: public, max-age=31536000, immutable
-/commons-4da1a2087432f3961e92.js
+/commons-9d15dd20205bee943663.js
   Cache-Control: public, max-age=31536000, immutable
 /component---src-templates-blog-post-js-019cbf7cb7ae17693a19.js
   Cache-Control: public, max-age=31536000, immutable
@@ -17,113 +17,113 @@
   Cache-Control: public, max-age=31536000, immutable
 /component---src-pages-404-js-c54c8b8b01d6b2734339.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-pages-blog-index-js-2c66c1ac74b539ffcfd2.js
+/component---src-pages-blog-index-js-55a331b784bc9b13e9dc.js
   Cache-Control: public, max-age=31536000, immutable
 /component---src-pages-tags-index-js-ffccde8daca2e31b6214.js
   Cache-Control: public, max-age=31536000, immutable
-/webpack-runtime-594ced59a7a9e14320eb.js
+/webpack-runtime-dac2479ff8207a5954f0.js
   Cache-Control: public, max-age=31536000, immutable
 /netlify-identity-widget-6021ed5a85ada48d8329.js
   Cache-Control: public, max-age=31536000, immutable
-/app-1f6989ca461be4f0933c.js
+/app-dee9925578e63b43ea68.js
   Cache-Control: public, max-age=31536000, immutable
 /static/*
   Cache-Control: public, max-age=31536000, immutable
 /sw.js
   Cache-Control: no-cache
-/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/
-  Link: </webpack-runtime-594ced59a7a9e14320eb.js>; rel=preload; as=script
-  Link: </commons-4da1a2087432f3961e92.js>; rel=preload; as=script
-  Link: </netlify-identity-widget-6021ed5a85ada48d8329.js>; rel=preload; as=script
-  Link: </app-1f6989ca461be4f0933c.js>; rel=preload; as=script
-  Link: </styles-ae186a05e6d35a25a9a6.js>; rel=preload; as=script
-  Link: </commons-4da1a2087432f3961e92.js>; rel=preload; as=script
-  Link: </component---src-templates-blog-post-js-019cbf7cb7ae17693a19.js>; rel=preload; as=script
 /blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/
-  Link: </webpack-runtime-594ced59a7a9e14320eb.js>; rel=preload; as=script
-  Link: </commons-4da1a2087432f3961e92.js>; rel=preload; as=script
+  Link: </webpack-runtime-dac2479ff8207a5954f0.js>; rel=preload; as=script
+  Link: </commons-9d15dd20205bee943663.js>; rel=preload; as=script
   Link: </netlify-identity-widget-6021ed5a85ada48d8329.js>; rel=preload; as=script
-  Link: </app-1f6989ca461be4f0933c.js>; rel=preload; as=script
+  Link: </app-dee9925578e63b43ea68.js>; rel=preload; as=script
   Link: </styles-ae186a05e6d35a25a9a6.js>; rel=preload; as=script
-  Link: </commons-4da1a2087432f3961e92.js>; rel=preload; as=script
+  Link: </commons-9d15dd20205bee943663.js>; rel=preload; as=script
   Link: </component---src-templates-blog-post-js-019cbf7cb7ae17693a19.js>; rel=preload; as=script
-/blog/2019-12-15-test/
-  Link: </webpack-runtime-594ced59a7a9e14320eb.js>; rel=preload; as=script
-  Link: </commons-4da1a2087432f3961e92.js>; rel=preload; as=script
+/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/
+  Link: </webpack-runtime-dac2479ff8207a5954f0.js>; rel=preload; as=script
+  Link: </commons-9d15dd20205bee943663.js>; rel=preload; as=script
   Link: </netlify-identity-widget-6021ed5a85ada48d8329.js>; rel=preload; as=script
-  Link: </app-1f6989ca461be4f0933c.js>; rel=preload; as=script
+  Link: </app-dee9925578e63b43ea68.js>; rel=preload; as=script
   Link: </styles-ae186a05e6d35a25a9a6.js>; rel=preload; as=script
-  Link: </commons-4da1a2087432f3961e92.js>; rel=preload; as=script
+  Link: </commons-9d15dd20205bee943663.js>; rel=preload; as=script
   Link: </component---src-templates-blog-post-js-019cbf7cb7ae17693a19.js>; rel=preload; as=script
-/tags/brewing/
-  Link: </webpack-runtime-594ced59a7a9e14320eb.js>; rel=preload; as=script
-  Link: </commons-4da1a2087432f3961e92.js>; rel=preload; as=script
+/blog/2020-01-03-welcome-to-nz-cellar-door/
+  Link: </webpack-runtime-dac2479ff8207a5954f0.js>; rel=preload; as=script
+  Link: </commons-9d15dd20205bee943663.js>; rel=preload; as=script
   Link: </netlify-identity-widget-6021ed5a85ada48d8329.js>; rel=preload; as=script
-  Link: </app-1f6989ca461be4f0933c.js>; rel=preload; as=script
+  Link: </app-dee9925578e63b43ea68.js>; rel=preload; as=script
   Link: </styles-ae186a05e6d35a25a9a6.js>; rel=preload; as=script
-  Link: </commons-4da1a2087432f3961e92.js>; rel=preload; as=script
-  Link: </component---src-templates-tags-js-d15796f9f4d1bf28c474.js>; rel=preload; as=script
-/tags/chemex/
-  Link: </webpack-runtime-594ced59a7a9e14320eb.js>; rel=preload; as=script
-  Link: </commons-4da1a2087432f3961e92.js>; rel=preload; as=script
-  Link: </netlify-identity-widget-6021ed5a85ada48d8329.js>; rel=preload; as=script
-  Link: </app-1f6989ca461be4f0933c.js>; rel=preload; as=script
-  Link: </styles-ae186a05e6d35a25a9a6.js>; rel=preload; as=script
-  Link: </commons-4da1a2087432f3961e92.js>; rel=preload; as=script
-  Link: </component---src-templates-tags-js-d15796f9f4d1bf28c474.js>; rel=preload; as=script
+  Link: </commons-9d15dd20205bee943663.js>; rel=preload; as=script
+  Link: </component---src-templates-blog-post-js-019cbf7cb7ae17693a19.js>; rel=preload; as=script
 /tags/flavor/
-  Link: </webpack-runtime-594ced59a7a9e14320eb.js>; rel=preload; as=script
-  Link: </commons-4da1a2087432f3961e92.js>; rel=preload; as=script
+  Link: </webpack-runtime-dac2479ff8207a5954f0.js>; rel=preload; as=script
+  Link: </commons-9d15dd20205bee943663.js>; rel=preload; as=script
   Link: </netlify-identity-widget-6021ed5a85ada48d8329.js>; rel=preload; as=script
-  Link: </app-1f6989ca461be4f0933c.js>; rel=preload; as=script
+  Link: </app-dee9925578e63b43ea68.js>; rel=preload; as=script
   Link: </styles-ae186a05e6d35a25a9a6.js>; rel=preload; as=script
-  Link: </commons-4da1a2087432f3961e92.js>; rel=preload; as=script
+  Link: </commons-9d15dd20205bee943663.js>; rel=preload; as=script
   Link: </component---src-templates-tags-js-d15796f9f4d1bf28c474.js>; rel=preload; as=script
 /tags/tasting/
-  Link: </webpack-runtime-594ced59a7a9e14320eb.js>; rel=preload; as=script
-  Link: </commons-4da1a2087432f3961e92.js>; rel=preload; as=script
+  Link: </webpack-runtime-dac2479ff8207a5954f0.js>; rel=preload; as=script
+  Link: </commons-9d15dd20205bee943663.js>; rel=preload; as=script
   Link: </netlify-identity-widget-6021ed5a85ada48d8329.js>; rel=preload; as=script
-  Link: </app-1f6989ca461be4f0933c.js>; rel=preload; as=script
+  Link: </app-dee9925578e63b43ea68.js>; rel=preload; as=script
   Link: </styles-ae186a05e6d35a25a9a6.js>; rel=preload; as=script
-  Link: </commons-4da1a2087432f3961e92.js>; rel=preload; as=script
+  Link: </commons-9d15dd20205bee943663.js>; rel=preload; as=script
   Link: </component---src-templates-tags-js-d15796f9f4d1bf28c474.js>; rel=preload; as=script
-/tags/test/
-  Link: </webpack-runtime-594ced59a7a9e14320eb.js>; rel=preload; as=script
-  Link: </commons-4da1a2087432f3961e92.js>; rel=preload; as=script
+/tags/brewing/
+  Link: </webpack-runtime-dac2479ff8207a5954f0.js>; rel=preload; as=script
+  Link: </commons-9d15dd20205bee943663.js>; rel=preload; as=script
   Link: </netlify-identity-widget-6021ed5a85ada48d8329.js>; rel=preload; as=script
-  Link: </app-1f6989ca461be4f0933c.js>; rel=preload; as=script
+  Link: </app-dee9925578e63b43ea68.js>; rel=preload; as=script
   Link: </styles-ae186a05e6d35a25a9a6.js>; rel=preload; as=script
-  Link: </commons-4da1a2087432f3961e92.js>; rel=preload; as=script
+  Link: </commons-9d15dd20205bee943663.js>; rel=preload; as=script
+  Link: </component---src-templates-tags-js-d15796f9f4d1bf28c474.js>; rel=preload; as=script
+/tags/chemex/
+  Link: </webpack-runtime-dac2479ff8207a5954f0.js>; rel=preload; as=script
+  Link: </commons-9d15dd20205bee943663.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-6021ed5a85ada48d8329.js>; rel=preload; as=script
+  Link: </app-dee9925578e63b43ea68.js>; rel=preload; as=script
+  Link: </styles-ae186a05e6d35a25a9a6.js>; rel=preload; as=script
+  Link: </commons-9d15dd20205bee943663.js>; rel=preload; as=script
+  Link: </component---src-templates-tags-js-d15796f9f4d1bf28c474.js>; rel=preload; as=script
+/tags/nz-cellar-door/
+  Link: </webpack-runtime-dac2479ff8207a5954f0.js>; rel=preload; as=script
+  Link: </commons-9d15dd20205bee943663.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-6021ed5a85ada48d8329.js>; rel=preload; as=script
+  Link: </app-dee9925578e63b43ea68.js>; rel=preload; as=script
+  Link: </styles-ae186a05e6d35a25a9a6.js>; rel=preload; as=script
+  Link: </commons-9d15dd20205bee943663.js>; rel=preload; as=script
   Link: </component---src-templates-tags-js-d15796f9f4d1bf28c474.js>; rel=preload; as=script
 /404/
-  Link: </webpack-runtime-594ced59a7a9e14320eb.js>; rel=preload; as=script
-  Link: </commons-4da1a2087432f3961e92.js>; rel=preload; as=script
+  Link: </webpack-runtime-dac2479ff8207a5954f0.js>; rel=preload; as=script
+  Link: </commons-9d15dd20205bee943663.js>; rel=preload; as=script
   Link: </netlify-identity-widget-6021ed5a85ada48d8329.js>; rel=preload; as=script
-  Link: </app-1f6989ca461be4f0933c.js>; rel=preload; as=script
+  Link: </app-dee9925578e63b43ea68.js>; rel=preload; as=script
   Link: </styles-ae186a05e6d35a25a9a6.js>; rel=preload; as=script
-  Link: </commons-4da1a2087432f3961e92.js>; rel=preload; as=script
+  Link: </commons-9d15dd20205bee943663.js>; rel=preload; as=script
   Link: </component---src-pages-404-js-c54c8b8b01d6b2734339.js>; rel=preload; as=script
 /blog/
-  Link: </webpack-runtime-594ced59a7a9e14320eb.js>; rel=preload; as=script
-  Link: </commons-4da1a2087432f3961e92.js>; rel=preload; as=script
+  Link: </webpack-runtime-dac2479ff8207a5954f0.js>; rel=preload; as=script
+  Link: </commons-9d15dd20205bee943663.js>; rel=preload; as=script
   Link: </netlify-identity-widget-6021ed5a85ada48d8329.js>; rel=preload; as=script
-  Link: </app-1f6989ca461be4f0933c.js>; rel=preload; as=script
+  Link: </app-dee9925578e63b43ea68.js>; rel=preload; as=script
   Link: </styles-ae186a05e6d35a25a9a6.js>; rel=preload; as=script
-  Link: </commons-4da1a2087432f3961e92.js>; rel=preload; as=script
-  Link: </component---src-pages-blog-index-js-2c66c1ac74b539ffcfd2.js>; rel=preload; as=script
+  Link: </commons-9d15dd20205bee943663.js>; rel=preload; as=script
+  Link: </component---src-pages-blog-index-js-55a331b784bc9b13e9dc.js>; rel=preload; as=script
 /tags/
-  Link: </webpack-runtime-594ced59a7a9e14320eb.js>; rel=preload; as=script
-  Link: </commons-4da1a2087432f3961e92.js>; rel=preload; as=script
+  Link: </webpack-runtime-dac2479ff8207a5954f0.js>; rel=preload; as=script
+  Link: </commons-9d15dd20205bee943663.js>; rel=preload; as=script
   Link: </netlify-identity-widget-6021ed5a85ada48d8329.js>; rel=preload; as=script
-  Link: </app-1f6989ca461be4f0933c.js>; rel=preload; as=script
+  Link: </app-dee9925578e63b43ea68.js>; rel=preload; as=script
   Link: </styles-ae186a05e6d35a25a9a6.js>; rel=preload; as=script
-  Link: </commons-4da1a2087432f3961e92.js>; rel=preload; as=script
+  Link: </commons-9d15dd20205bee943663.js>; rel=preload; as=script
   Link: </component---src-pages-tags-index-js-ffccde8daca2e31b6214.js>; rel=preload; as=script
 /404.html
-  Link: </webpack-runtime-594ced59a7a9e14320eb.js>; rel=preload; as=script
-  Link: </commons-4da1a2087432f3961e92.js>; rel=preload; as=script
+  Link: </webpack-runtime-dac2479ff8207a5954f0.js>; rel=preload; as=script
+  Link: </commons-9d15dd20205bee943663.js>; rel=preload; as=script
   Link: </netlify-identity-widget-6021ed5a85ada48d8329.js>; rel=preload; as=script
-  Link: </app-1f6989ca461be4f0933c.js>; rel=preload; as=script
+  Link: </app-dee9925578e63b43ea68.js>; rel=preload; as=script
   Link: </styles-ae186a05e6d35a25a9a6.js>; rel=preload; as=script
-  Link: </commons-4da1a2087432f3961e92.js>; rel=preload; as=script
+  Link: </commons-9d15dd20205bee943663.js>; rel=preload; as=script
   Link: </component---src-pages-404-js-c54c8b8b01d6b2734339.js>; rel=preload; as=script

@@ -35,13 +35,13 @@ const Navbar = class extends React.Component {
   render() {
     return (
       <nav
-        className="navbar is-transparent"
+			className="navbar is-fixed-top"
         role="navigation"
-        aria-label="main-navigation"
+		aria-label="main-navigation"
       >
         <div className="container">
           <div className="navbar-brand">
-            <a className="navbar-item" 
+            <a className="navbar-item"
                       onClick={e => {
                           e.preventDefault()
                           window.location.href = "/";
@@ -64,21 +64,21 @@ const Navbar = class extends React.Component {
             className={`navbar-menu ${this.state.navBarActiveClass}`}
           >
             <div className="navbar-start has-text-centered">
-            <a className="navbar-item" 
+            <a className="navbar-item"
                       onClick={e => {
                           e.preventDefault()
                           window.location.href = "/";
                       }}>
                 Home
               </a>
-              <a className="navbar-item" 
+              <a className="navbar-item"
                       onClick={e => {
                           e.preventDefault()
                           window.location.href = "/new-zealand-wine-regions";
                       }}>
                 NZ Wine Regions
               </a>
-              <a className="navbar-item" 
+              <a className="navbar-item"
                       onClick={e => {
                           e.preventDefault()
                           window.location.href = "/";
@@ -91,24 +91,24 @@ const Navbar = class extends React.Component {
 
             </div>
             <div className="navbar-end has-text-centered">
-            <a className="navbar-item" 
+            <a className="navbar-item"
                       onClick={e => {
                           e.preventDefault()
                           window.location.href = "/pricing";
                       }}>
                 List with us
               </a>
-              <a className="navbar-item" 
+              <a className="navbar-item"
                       onClick={e => {
                           e.preventDefault()
                           window.location.href = "/session/register";
-                      }}>              
+                      }}>
               </a>
-              <a className="navbar-item" 
+              <a className="navbar-item"
                       onClick={e => {
                           e.preventDefault()
                           window.location.href = "/session/login";
-                      }}>                
+                      }}>
                 Sign in
               </a>
             </div>
