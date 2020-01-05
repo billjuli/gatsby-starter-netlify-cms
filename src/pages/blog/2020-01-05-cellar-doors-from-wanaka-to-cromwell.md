@@ -13,8 +13,6 @@ tags:
 ---
 Just a short drive, 40 minutes, from Wanaka township, is Cromwell.   Starting in Wanaka town center, head out of town on SH6 and you’ll be on your way to the charming village of Cromwell with world-class vineyards and cellar door experiences along the way.  
 
-
-
 Heading out of Wanaka  you’ll pass iconic attractions such as Mount Iron and Puzzling world.  Turn right onto Riverbank Rd, cross Ballantyne Rd, and you will come to Aitken’s Folly Vineyard where the cellar door is open seasonally from 11am - 5pm (ish, if the flag's flying, they’re still open!), 7 days a week for wine tasting and sales.  Aitken’s Folly is a family run boutique winery producing award winning Pinot Noir and Chardonnay and well worth a visit. 
 
 ![Aitken's Folly](/img/aitkens-fo-lly-entrance.jpg "Aitken's Folly")
@@ -30,3 +28,9 @@ Another major attraction on the way is the Wanaka Airport, home to Warbirds of W
 _The Luggate Hotel._
 
 Heading further on your journey, around Queensbury, the road will follow the famous Clutha River. In this same pocket of bliss is the Nanny Goat Vineyard (signposted from the highway) providing unique cellar door experiences to kick off your Central Otago Vineyard tour. Nanny Goat Vineyard is a Cromwell Vineyard that bought Archangel Vineyard and has re-branded as Nanny Goat.  The cellar door has something for everyone, a menu consisting of fine platters including kids options to keep your young ones content while you taste fine local wines. The atmosphere of Nanny Goat is relaxed with an airy spacious courtyard and clean classy interior. To top it off the staff are super friendly providing superb hospitality. Nanny Goat has its own wine maker and use the facilities at Mt Maude for wine making. The fresh mountain air and dry climate help to produce splendid wines.
+
+![Nanny Goat Winery](/img/img_2471.jpg "Nanny Goat Winery")
+
+_The outdoor seating at Nanny Goat Winery cellar door._
+
+__
