@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
+    title: 'NZ Cellar Door Winery Blog',
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      'NZ Cellar Door blog full of usefull information for visiting NZ wineries and vineyards.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
