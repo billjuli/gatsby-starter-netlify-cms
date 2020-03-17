@@ -71,13 +71,125 @@ const Navbar = class extends React.Component {
                       }}>
                 Home
               </a>
-              <a className="navbar-item"
+              <div class="navbar-item has-dropdown is-hoverable">
+              <a className="navbar-link"
                       onClick={e => {
                           e.preventDefault()
                           window.location.href = "/new-zealand-wine-regions";
                       }}>
-                NZ Wine Regions
+                NZ Wine Regions                
               </a>
+
+              <div class="navbar-dropdown">
+                <a class="navbar-item"
+                   onClick={e => {
+                          e.preventDefault()
+                          window.location.href = "/new-zealand-wine-regions";
+                      }}>
+                  All Regions
+                </a>
+                <a class="navbar-item"
+                   onClick={e => {
+                          e.preventDefault()
+                          window.location.href = "/wines-north-island";
+                      }}>
+                North Island
+                </a>
+                <a class="navbar-item" 
+                   onClick={e => {
+                          e.preventDefault()
+                          window.location.href = "/wines-south-island";
+                      }}>
+                South Island
+                </a>
+                <hr class="navbar-divider" />
+                <a class="navbar-item"
+                   onClick={e => {
+                          e.preventDefault()
+                          window.location.href = "/auckland-region";
+                      }}>
+                Auckland Region
+                </a>
+                <a class="navbar-item"
+                   onClick={e => {
+                          e.preventDefault()
+                          window.location.href = "/canterbury-and-north-canterbury";
+                      }}>
+                Canterbury &amp; North Canterbury
+                </a>
+                <a class="navbar-item"
+                   onClick={e => {
+                          e.preventDefault()
+                          window.location.href = "/central-otago";
+                      }}>
+                Central Otago
+                </a>                     
+                <a class="navbar-item"
+                   onClick={e => {
+                          e.preventDefault()
+                          window.location.href = "/gisborne";
+                      }}>
+                Gisborne
+                </a>
+                <a class="navbar-item"
+                   onClick={e => {
+                          e.preventDefault()
+                          window.location.href = "/hawkes-bay";
+                      }}>
+                Hawke's Bay
+                </a>                
+                <a class="navbar-item"
+                   onClick={e => {
+                          e.preventDefault()
+                          window.location.href = "/marlborough";
+                      }}>
+                Marlborough
+                </a>
+                <a class="navbar-item"
+                   onClick={e => {
+                          e.preventDefault()
+                          window.location.href = "/nelson";
+                      }}>
+                Nelson
+                </a>
+                <a class="navbar-item"
+                   onClick={e => {
+                          e.preventDefault()
+                          window.location.href = "/northland";
+                      }}>
+                Northland
+                </a>
+                <a class="navbar-item"
+                   onClick={e => {
+                          e.preventDefault()
+                          window.location.href = "/waikato";
+                      }}>
+                Waikato & Bay of Plenty
+                </a>
+                <a class="navbar-item"
+                   onClick={e => {
+                          e.preventDefault()
+                          window.location.href = "/wairarapa";
+                      }}>
+                Wairarapa
+                </a>
+                <a class="navbar-item"
+                   onClick={e => {
+                          e.preventDefault()
+                          window.location.href = "/waitaki-valley";
+                      }}>
+                Waitaki Valley
+                </a>
+                <a class="navbar-item"
+                   onClick={e => {
+                          e.preventDefault()
+                          window.location.href = "/wellington";
+                      }}>
+                Wellington
+                </a>
+              </div> 
+
+              </div>
               <a className="navbar-item"
                       onClick={e => {
                           e.preventDefault()
@@ -87,30 +199,38 @@ const Navbar = class extends React.Component {
               </a>
               <Link className="navbar-item" to="/blog">
                 Blog
-              </Link>
+              </Link>             
 
             </div>
+
+            
             <div className="navbar-end has-text-centered">
-            <a className="navbar-item"
-                      onClick={e => {
-                          e.preventDefault()
-                          window.location.href = "/pricing";
-                      }}>
-                List with us
-              </a>
+            
               <a className="navbar-item"
                       onClick={e => {
                           e.preventDefault()
                           window.location.href = "/session/register";
                       }}>
+                      Register
               </a>
-              <a className="navbar-item"
-                      onClick={e => {
+            
+              <div class="buttons">
+                <a class="button is-primary"
+                    onClick={e => {
+                          e.preventDefault()
+                          window.location.href = "/pricing";
+                      }}>
+                  <strong>List with Us</strong>
+                </a>
+                <a class="button is-light"
+                    onClick={e => {
                           e.preventDefault()
                           window.location.href = "/session/login";
                       }}>
-                Sign in
-              </a>
+                  Sign in
+                </a>
+              </div>
+
             </div>
           </div>
         </div>
