@@ -197,6 +197,97 @@ const Navbar = class extends React.Component {
                       }}>
                 Wine Map
               </a>
+
+
+
+              <div class="navbar-dropdown">
+                
+                <a class="navbar-item"
+                   onClick={e => {
+                          e.preventDefault()
+                          window.location.href = "/map/region/auckland-region";
+                      }}>
+                Auckland Region
+                </a>
+                <a class="navbar-item"
+                   onClick={e => {
+                          e.preventDefault()
+                          window.location.href = "/map/region/canterbury-and-north-canterbury";
+                      }}>
+                Canterbury &amp; North Canterbury
+                </a>
+                <a class="navbar-item"
+                   onClick={e => {
+                          e.preventDefault()
+                          window.location.href = "/map/region/central-otago";
+                      }}>
+                Central Otago
+                </a>                     
+                <a class="navbar-item"
+                   onClick={e => {
+                          e.preventDefault()
+                          window.location.href = "/map/region/gisborne";
+                      }}>
+                Gisborne
+                </a>
+                <a class="navbar-item"
+                   onClick={e => {
+                          e.preventDefault()
+                          window.location.href = "/map/region/hawkes-bay";
+                      }}>
+                Hawke's Bay
+                </a>                
+                <a class="navbar-item"
+                   onClick={e => {
+                          e.preventDefault()
+                          window.location.href = "/map/region/marlborough";
+                      }}>
+                Marlborough
+                </a>
+                <a class="navbar-item"
+                   onClick={e => {
+                          e.preventDefault()
+                          window.location.href = "/map/region/nelson";
+                      }}>
+                Nelson
+                </a>
+                <a class="navbar-item"
+                   onClick={e => {
+                          e.preventDefault()
+                          window.location.href = "/map/region/northland";
+                      }}>
+                Northland
+                </a>
+                <a class="navbar-item"
+                   onClick={e => {
+                          e.preventDefault()
+                          window.location.href = "/map/region/waikato";
+                      }}>
+                Waikato & Bay of Plenty
+                </a>
+                <a class="navbar-item"
+                   onClick={e => {
+                          e.preventDefault()
+                          window.location.href = "/map/region/wairarapa";
+                      }}>
+                Wairarapa
+                </a>
+                <a class="navbar-item"
+                   onClick={e => {
+                          e.preventDefault()
+                          window.location.href = "/map/region/waitaki-valley";
+                      }}>
+                Waitaki Valley
+                </a>
+                <a class="navbar-item"
+                   onClick={e => {
+                          e.preventDefault()
+                          window.location.href = "/map/region/wellington";
+                      }}>
+                Wellington
+                </a>
+              </div> 
+
               <Link className="navbar-item" to="/blog">
                 Blog
               </Link>             

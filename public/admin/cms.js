@@ -63,7 +63,7 @@
 /******/
 /******/ 	var hotApplyOnUpdate = true;
 /******/ 	// eslint-disable-next-line no-unused-vars
-/******/ 	var hotCurrentHash = "1a52afa148035836a784";
+/******/ 	var hotCurrentHash = "0a207bcf949a2042187e";
 /******/ 	var hotRequestTimeout = 10000;
 /******/ 	var hotCurrentModuleData = {};
 /******/ 	var hotCurrentChildModule;
@@ -35822,19 +35822,158 @@ function (_React$Component) {
         lineNumber: 193
       },
       __self: this
-    }, "Wine Map"), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(gatsby__WEBPACK_IMPORTED_MODULE_2__["Link"], {
+    }, "Wine Map"), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
+      class: "navbar-dropdown",
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 203
+      },
+      __self: this
+    }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
+      class: "navbar-item",
+      onClick: function onClick(e) {
+        e.preventDefault();
+        window.location.href = "/map/region/auckland-region";
+      },
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 205
+      },
+      __self: this
+    }, "Auckland Region"), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
+      class: "navbar-item",
+      onClick: function onClick(e) {
+        e.preventDefault();
+        window.location.href = "/map/region/canterbury-and-north-canterbury";
+      },
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 212
+      },
+      __self: this
+    }, "Canterbury & North Canterbury"), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
+      class: "navbar-item",
+      onClick: function onClick(e) {
+        e.preventDefault();
+        window.location.href = "/map/region/central-otago";
+      },
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 219
+      },
+      __self: this
+    }, "Central Otago"), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
+      class: "navbar-item",
+      onClick: function onClick(e) {
+        e.preventDefault();
+        window.location.href = "/map/region/gisborne";
+      },
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 226
+      },
+      __self: this
+    }, "Gisborne"), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
+      class: "navbar-item",
+      onClick: function onClick(e) {
+        e.preventDefault();
+        window.location.href = "/map/region/hawkes-bay";
+      },
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 233
+      },
+      __self: this
+    }, "Hawke's Bay"), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
+      class: "navbar-item",
+      onClick: function onClick(e) {
+        e.preventDefault();
+        window.location.href = "/map/region/marlborough";
+      },
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 240
+      },
+      __self: this
+    }, "Marlborough"), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
+      class: "navbar-item",
+      onClick: function onClick(e) {
+        e.preventDefault();
+        window.location.href = "/map/region/nelson";
+      },
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 247
+      },
+      __self: this
+    }, "Nelson"), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
+      class: "navbar-item",
+      onClick: function onClick(e) {
+        e.preventDefault();
+        window.location.href = "/map/region/northland";
+      },
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 254
+      },
+      __self: this
+    }, "Northland"), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
+      class: "navbar-item",
+      onClick: function onClick(e) {
+        e.preventDefault();
+        window.location.href = "/map/region/waikato";
+      },
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 261
+      },
+      __self: this
+    }, "Waikato & Bay of Plenty"), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
+      class: "navbar-item",
+      onClick: function onClick(e) {
+        e.preventDefault();
+        window.location.href = "/map/region/wairarapa";
+      },
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 268
+      },
+      __self: this
+    }, "Wairarapa"), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
+      class: "navbar-item",
+      onClick: function onClick(e) {
+        e.preventDefault();
+        window.location.href = "/map/region/waitaki-valley";
+      },
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 275
+      },
+      __self: this
+    }, "Waitaki Valley"), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
+      class: "navbar-item",
+      onClick: function onClick(e) {
+        e.preventDefault();
+        window.location.href = "/map/region/wellington";
+      },
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 282
+      },
+      __self: this
+    }, "Wellington")), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(gatsby__WEBPACK_IMPORTED_MODULE_2__["Link"], {
       className: "navbar-item",
       to: "/blog",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 200
+        lineNumber: 291
       },
       __self: this
     }, "Blog")), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
       className: "navbar-end has-text-centered",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 207
+        lineNumber: 298
       },
       __self: this
     }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
@@ -35845,14 +35984,14 @@ function (_React$Component) {
       },
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 209
+        lineNumber: 300
       },
       __self: this
     }, "Register"), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
       class: "buttons",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 217
+        lineNumber: 308
       },
       __self: this
     }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
@@ -35863,13 +36002,13 @@ function (_React$Component) {
       },
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 218
+        lineNumber: 309
       },
       __self: this
     }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("strong", {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 223
+        lineNumber: 314
       },
       __self: this
     }, "List with Us")), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
@@ -35880,7 +36019,7 @@ function (_React$Component) {
       },
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 225
+        lineNumber: 316
       },
       __self: this
     }, "Sign in"))))));
