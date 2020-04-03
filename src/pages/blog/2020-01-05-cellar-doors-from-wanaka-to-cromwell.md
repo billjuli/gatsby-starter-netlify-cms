@@ -11,10 +11,6 @@ tags:
   - Wanaka
   - Cromwell
 ---
-
-
-TEST
-
 Just a short drive, 40 minutes, from Wanaka township, is Cromwell.   Starting in Wanaka town center, head out of town on SH6 and you’ll be on your way to the charming village of Cromwell with world-class vineyards and cellar door experiences along the way.  
 
 Heading out of Wanaka  you’ll pass iconic attractions such as Mount Iron and Puzzling world.  Turn right onto Riverbank Rd, cross Ballantyne Rd, and you will come to Aitken’s Folly Vineyard where the cellar door is open seasonally from 11am - 5pm (ish, if the flag's flying, they’re still open!), 7 days a week for wine tasting and sales.  Aitken’s Folly is a family run boutique winery producing award winning Pinot Noir and Chardonnay and well worth a visit. 
@@ -42,5 +38,7 @@ Keep heading towards Cromwell and you will pass many more vineyards and cellar d
 Venture a little further and more vineyards on your way, however many do not have cellar doors open to the public.  There’s the Ata Mira Vineyard to the right neighbouring the Charcoal Galley Vineyard at Mt Pisa station. If your blood sugar drops, you can stop off at Prophecy Ripe Cherries and enjoy Central Otago’s fresh gift to you. Once you’ve had your pick me up feel free to venture onward passing Toi Toi Vineyard and others such as Armfield Vineyard and several Akarua Vineyards.  Mount Edward will stand tall during your journey adding to the authenticity of your Central Otago road trip. 
 
 Not much further along you will come across a trio of delightful vineyards: The French Potter Vineyard, Domaine Rewa and Akarua 25 Steps Vineyard. The wide-open spaces and fresh air may also spark creativity, if this is the case stop off at the Linen Collection to the right and buy yourself an assortment of distinctive handcrafted products to bring some of Central Otago home with you. There is also fresh honey, peaches and cherries along the way. A detail not to be missed is that you will pass Lake Dunstan entering the 45th Parallel. The 45th Parallel walking track is a must-do, especially if you wish to stretch your legs and bask in the freshness of this unique area. 
+
+![Aurum Wines Winery](/img/img_2503.jpg "Aurum Wines Winery's Cellar Door")
 
 Once you have entered Lowburn you will find Aurum Wines Winery, a wholesome setting certified organic/bio grow. With a peaceful cellar door experience, Aurum Winery is to be added to your must-do list. The vineyard is home to a charming, classic cottage where cellar door and wine tasting experiences are offered. The earthy and honest wine is unforgettable. To top it off, the fruits are locally grown giving you the taste of Central Otago that you deserve. The whole atmosphere is spot on with vibrant plantings and friendly staff. When you near Cromwell you can enjoy a real fruit ice cream for the road before heading into Wooing Tree Vineyard. Named after an American Pinewood Tree where loved ones were wooed, the vineyard has superb wine tasting and cellar door experiences on offer. Wooing Tree has an abundance of character with funky designs and an artistic building made of natural wood. The staff here are also friendly and approachable. At Wooing Tree, there is something for everyone, with fine menus and wines as well as a play area for children. To top it off, Wooing Tree is walking distance from Cromwell’s fine Township. Once you arrive in Cromwell, your journey is not yet ceased. Misa’s Vineyard beckons you with fine tasting and sales. Tours are also provided. Misha's Vineyard is full of character with a unique Greek feel. Fresh food and fruit are also offered to accompany your wine tasting experiences.
