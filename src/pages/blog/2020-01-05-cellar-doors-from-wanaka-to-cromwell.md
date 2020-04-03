@@ -6,7 +6,7 @@ description: >-
   You can make a day of visiting cellar doors on the 55kn trip from Wanaka to
   Cromwell.
 featuredpost: true
-featuredimage: /img/aitkens-fo-lly-entrance.jpg
+featuredimage: /img/img_2503.jpg
 tags:
   - Wanaka
   - Cromwell
