@@ -11,6 +11,10 @@ tags:
   - Wanaka
   - Cromwell
 ---
+
+
+TEST
+
 Just a short drive, 40 minutes, from Wanaka township, is Cromwell.   Starting in Wanaka town center, head out of town on SH6 and you’ll be on your way to the charming village of Cromwell with world-class vineyards and cellar door experiences along the way.  
 
 Heading out of Wanaka  you’ll pass iconic attractions such as Mount Iron and Puzzling world.  Turn right onto Riverbank Rd, cross Ballantyne Rd, and you will come to Aitken’s Folly Vineyard where the cellar door is open seasonally from 11am - 5pm (ish, if the flag's flying, they’re still open!), 7 days a week for wine tasting and sales.  Aitken’s Folly is a family run boutique winery producing award winning Pinot Noir and Chardonnay and well worth a visit. 
