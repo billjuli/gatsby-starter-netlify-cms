@@ -73,10 +73,10 @@ const Navbar = class extends React.Component {
               </a>
               <div class="navbar-item has-dropdown is-hoverable">
               <a className="navbar-link"
-                      onClick={e => {
+                       onClick={e => {
                           e.preventDefault()
                           window.location.href = "/new-zealand-wine-regions";
-                      }}>
+                      }}> 
                 NZ Wine Regions                
               </a>
 
@@ -190,18 +190,15 @@ const Navbar = class extends React.Component {
               </div> 
 
               </div>
-              <a className="navbar-item"
+              <div class="navbar-item has-dropdown is-hoverable">
+              <a className="navbar-link"
                       onClick={e => {
                           e.preventDefault()
-                          window.location.href = "/";
+                          window.location.href = "/map/region/auckland-region";
                       }}>
                 Wine Map
               </a>
-
-
-
-              <div class="navbar-dropdown">
-                
+              <div class="navbar-dropdown">                
                 <a class="navbar-item"
                    onClick={e => {
                           e.preventDefault()
@@ -287,6 +284,7 @@ const Navbar = class extends React.Component {
                 Wellington
                 </a>
               </div> 
+              </div>
 
               <Link className="navbar-item" to="/blog">
                 Blog

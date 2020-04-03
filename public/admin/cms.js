@@ -63,7 +63,7 @@
 /******/
 /******/ 	var hotApplyOnUpdate = true;
 /******/ 	// eslint-disable-next-line no-unused-vars
-/******/ 	var hotCurrentHash = "0a207bcf949a2042187e";
+/******/ 	var hotCurrentHash = "efa7cf08885220822744";
 /******/ 	var hotRequestTimeout = 10000;
 /******/ 	var hotCurrentModuleData = {};
 /******/ 	var hotCurrentChildModule;
@@ -35811,22 +35811,29 @@ function (_React$Component) {
         lineNumber: 183
       },
       __self: this
-    }, "Wellington"))), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
-      className: "navbar-item",
-      onClick: function onClick(e) {
-        e.preventDefault();
-        window.location.href = "/";
-      },
+    }, "Wellington"))), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
+      class: "navbar-item has-dropdown is-hoverable",
       __source: {
         fileName: _jsxFileName,
         lineNumber: 193
+      },
+      __self: this
+    }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
+      className: "navbar-link",
+      onClick: function onClick(e) {
+        e.preventDefault();
+        window.location.href = "/map/region/auckland-region";
+      },
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 194
       },
       __self: this
     }, "Wine Map"), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
       class: "navbar-dropdown",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 203
+        lineNumber: 201
       },
       __self: this
     }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
@@ -35837,7 +35844,7 @@ function (_React$Component) {
       },
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 205
+        lineNumber: 202
       },
       __self: this
     }, "Auckland Region"), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
@@ -35848,7 +35855,7 @@ function (_React$Component) {
       },
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 212
+        lineNumber: 209
       },
       __self: this
     }, "Canterbury & North Canterbury"), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
@@ -35859,7 +35866,7 @@ function (_React$Component) {
       },
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 219
+        lineNumber: 216
       },
       __self: this
     }, "Central Otago"), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
@@ -35870,7 +35877,7 @@ function (_React$Component) {
       },
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 226
+        lineNumber: 223
       },
       __self: this
     }, "Gisborne"), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
@@ -35881,7 +35888,7 @@ function (_React$Component) {
       },
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 233
+        lineNumber: 230
       },
       __self: this
     }, "Hawke's Bay"), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
@@ -35892,7 +35899,7 @@ function (_React$Component) {
       },
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 240
+        lineNumber: 237
       },
       __self: this
     }, "Marlborough"), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
@@ -35903,7 +35910,7 @@ function (_React$Component) {
       },
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 247
+        lineNumber: 244
       },
       __self: this
     }, "Nelson"), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
@@ -35914,7 +35921,7 @@ function (_React$Component) {
       },
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 254
+        lineNumber: 251
       },
       __self: this
     }, "Northland"), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
@@ -35925,7 +35932,7 @@ function (_React$Component) {
       },
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 261
+        lineNumber: 258
       },
       __self: this
     }, "Waikato & Bay of Plenty"), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
@@ -35936,7 +35943,7 @@ function (_React$Component) {
       },
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 268
+        lineNumber: 265
       },
       __self: this
     }, "Wairarapa"), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
@@ -35947,7 +35954,7 @@ function (_React$Component) {
       },
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 275
+        lineNumber: 272
       },
       __self: this
     }, "Waitaki Valley"), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
@@ -35958,22 +35965,22 @@ function (_React$Component) {
       },
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 282
+        lineNumber: 279
       },
       __self: this
-    }, "Wellington")), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(gatsby__WEBPACK_IMPORTED_MODULE_2__["Link"], {
+    }, "Wellington"))), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(gatsby__WEBPACK_IMPORTED_MODULE_2__["Link"], {
       className: "navbar-item",
       to: "/blog",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 291
+        lineNumber: 289
       },
       __self: this
     }, "Blog")), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
       className: "navbar-end has-text-centered",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 298
+        lineNumber: 296
       },
       __self: this
     }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
@@ -35984,14 +35991,14 @@ function (_React$Component) {
       },
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 300
+        lineNumber: 298
       },
       __self: this
     }, "Register"), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
       class: "buttons",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 308
+        lineNumber: 306
       },
       __self: this
     }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
@@ -36002,13 +36009,13 @@ function (_React$Component) {
       },
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 309
+        lineNumber: 307
       },
       __self: this
     }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("strong", {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 314
+        lineNumber: 312
       },
       __self: this
     }, "List with Us")), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
@@ -36019,7 +36026,7 @@ function (_React$Component) {
       },
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 316
+        lineNumber: 314
       },
       __self: this
     }, "Sign in"))))));

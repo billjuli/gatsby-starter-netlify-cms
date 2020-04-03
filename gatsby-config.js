@@ -1,8 +1,8 @@
 module.exports = {
+  pathPrefix: `/news`,
   siteMetadata: {
     title: 'NZ Cellar Door Winery Blog',
-    description:
-      'NZ Cellar Door blog full of usefull information for visiting NZ wineries and vineyards.',
+    description:      'NZ Cellar Door blog full of usefull information for visiting NZ wineries and vineyards.',      
   },
   plugins: [
     'gatsby-plugin-react-helmet',
