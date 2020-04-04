@@ -6,7 +6,7 @@ description: >-
   You can make a day of visiting cellar doors on the 55km trip from Wanaka to
   Cromwell.
 featuredpost: true
-featuredimage: /img/wildflower-bank-house-and-vineyard.jpg
+featuredimage: /img/aitkens-fo-lly-entrance.jpg
 tags:
   - Wanaka
   - Cromwell
@@ -42,3 +42,5 @@ Not much further along you will come across a trio of delightful vineyards: The 
 ![Aurum Wines Winery](/img/aurum-wines-our-story-banner.jpg "Aurum Wines Winery's Cellar Door")
 
 Once you have entered Lowburn you will find Aurum Wines Winery, a wholesome setting certified organic/bio grow. With a peaceful cellar door experience, Aurum Winery is to be added to your must-do list. The vineyard is home to a charming, classic cottage where cellar door and wine tasting experiences are offered. The earthy and honest wine is unforgettable. To top it off, the fruits are locally grown giving you the taste of Central Otago that you deserve. The whole atmosphere is spot on with vibrant plantings and friendly staff. When you near Cromwell you can enjoy a real fruit ice cream for the road before heading into Wooing Tree Vineyard. Named after an American Pinewood Tree where loved ones were wooed, the vineyard has superb wine tasting and cellar door experiences on offer. Wooing Tree has an abundance of character with funky designs and an artistic building made of natural wood. The staff here are also friendly and approachable. At Wooing Tree, there is something for everyone, with fine menus and wines as well as a play area for children. To top it off, Wooing Tree is walking distance from Cromwell’s fine Township. Once you arrive in Cromwell, your journey is not yet ceased. Misa’s Vineyard beckons you with fine tasting and sales. Tours are also provided. Misha's Vineyard is full of character with a unique Greek feel. Fresh food and fruit are also offered to accompany your wine tasting experiences.
+
+Enjoy!
