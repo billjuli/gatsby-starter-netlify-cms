@@ -6,7 +6,7 @@ description: >-
   You can make a day of visiting cellar doors on the 55km trip from Wanaka to
   Cromwell.
 featuredpost: true
-featuredimage: /img/aurum-wines-our-story-banner.jpg
+featuredimage: /img/wildflower-bank-house-and-vineyard.jpg
 tags:
   - Wanaka
   - Cromwell
