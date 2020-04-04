@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Cellar Doors From Wanaka to Cromwell
+title: old2
 date: 2020-01-05T06:19:00.000Z
 description: >-
   You can make a day of visiting cellar doors on the 55km trip from Wanaka to
